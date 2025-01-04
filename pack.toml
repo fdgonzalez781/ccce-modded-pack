@@ -1,0 +1,13 @@
+name = "CCCE Modded"
+author = "verdantfuture"
+version = "1.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4572fd1fd658eb7b0c9248dfc5a1d36babd337ff13c7476ebb3c5ca168c2671a"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.92"
