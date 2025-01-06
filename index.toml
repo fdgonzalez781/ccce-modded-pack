@@ -1,8 +1,296 @@
 hash-format = "sha256"
 
 [[files]]
+file = "..gitignore.un~"
+hash = "d82493771871d9900d953dc0b868fa890985251f361a09a59906f25d8a96cb2d"
+
+[[files]]
+file = ".gitignore~"
+hash = "52da1ca3500693430ce3b1d4661c630e6cf37e8f24ecf8c47dd2ccefbb411c3c"
+
+[[files]]
+file = "mods/.connector/Etherology-1.21-0.1.5$Fabric-ASM-v2.3_mapped_moj_1.21.1.jar"
+hash = "f94e4695f31603299656a3af51d26f317cd758258f9cc51579fdd0c449a11bbf"
+
+[[files]]
+file = "mods/.connector/Etherology-1.21-0.1.5$Fabric-ASM-v2.3_mapped_moj_1.21.1.jar.input"
+hash = "23aa2d81dbb9c1fdf09ad229ea704b25595e6bd20a59e7a9879e9a1af6d940e1"
+
+[[files]]
+file = "mods/.connector/Etherology-1.21-0.1.5$mixinsquared-fabric-0.2.0-beta.6_mapped_moj_1.21.1.jar"
+hash = "630cd9edce00cc1f7514558bfefd4cc854b7461e62fafdf291dc373e39020334"
+
+[[files]]
+file = "mods/.connector/Etherology-1.21-0.1.5$mixinsquared-fabric-0.2.0-beta.6_mapped_moj_1.21.1.jar.input"
+hash = "cb4e4fdece849c5ae7bb8b56fbe7bde51148dea23a410b7c7f02e09265aa87cb"
+
+[[files]]
+file = "mods/.connector/Etherology-1.21-0.1.5_mapped_moj_1.21.1.jar"
+hash = "3841e2e4beaf6b90b5d0cde7601ad802a09cfae46e6f2177697a895faac24d43"
+
+[[files]]
+file = "mods/.connector/Etherology-1.21-0.1.5_mapped_moj_1.21.1.jar.input"
+hash = "3af5e66a682cd6a39758b40ff3b20a341ac10cd67c960ba3b829ac2accdbfd96"
+
+[[files]]
+file = "mods/.connector/FabricShieldLib-1.7.2-1.21.1$midnightlib-1.5.8-fabric_mapped_moj_1.21.1.jar"
+hash = "fb23aca3a2ef8b622c599ef7e8eb938868e7a8890b9bf6d17466741e920b2dcc"
+
+[[files]]
+file = "mods/.connector/FabricShieldLib-1.7.2-1.21.1$midnightlib-1.5.8-fabric_mapped_moj_1.21.1.jar.input"
+hash = "ea91eb57b0923f579b79fb1b5e6eb474817a5a376a7cca2c5e800c41f83f4d5d"
+
+[[files]]
+file = "mods/.connector/FabricShieldLib-1.7.2-1.21.1_mapped_moj_1.21.1.jar"
+hash = "c914770ced1ff1fa8078e0ae57294c212a52643b42a8233b583bd01dc9b24901"
+
+[[files]]
+file = "mods/.connector/FabricShieldLib-1.7.2-1.21.1_mapped_moj_1.21.1.jar.input"
+hash = "bec5894dee5d027e617003aa5d4e8c789aec49af6016c62e8493eec0181c3be6"
+
+[[files]]
+file = "mods/.connector/allay-behave-1.3.3+1.21_mapped_moj_1.21.1.jar"
+hash = "dbe84182c10350d2c2c63e33cf16625f47b1540919a72b3aa940fb3f9058830b"
+
+[[files]]
+file = "mods/.connector/allay-behave-1.3.3+1.21_mapped_moj_1.21.1.jar.input"
+hash = "92eb4b787e820ffe608005321d1afb064a048029c0aa48c9e07e72b5735c9bf8"
+
+[[files]]
+file = "mods/.connector/cardinal-components-api-6.1.1$cardinal-components-base-6.1.1_mapped_moj_1.21.1.jar"
+hash = "7753c7b07de12b4ffa080222dd9595f649cf4f4edd098b2fa08d44eb8b318eec"
+
+[[files]]
+file = "mods/.connector/cardinal-components-api-6.1.1$cardinal-components-base-6.1.1_mapped_moj_1.21.1.jar.input"
+hash = "85cfbe99cfcff7aea1d2ed5ffd9fd1a31bc68fef236ecb5c93d92d4ae13ae6a5"
+
+[[files]]
+file = "mods/.connector/cardinal-components-api-6.1.1$cardinal-components-block-6.1.1_mapped_moj_1.21.1.jar"
+hash = "7a392bfac1eaaaf407a64c3f49bc9fe8049a7c879bdb84e3f3cbf84fe67b0c73"
+
+[[files]]
+file = "mods/.connector/cardinal-components-api-6.1.1$cardinal-components-block-6.1.1_mapped_moj_1.21.1.jar.input"
+hash = "6a96b7a8bee074e7400597623b6ddf23e5fff86b3a06eefb4cc695168b2f8ec9"
+
+[[files]]
+file = "mods/.connector/cardinal-components-api-6.1.1$cardinal-components-chunk-6.1.1_mapped_moj_1.21.1.jar"
+hash = "288fe420600e02cc3e8422233aaf8107cc6d89dee25bc436f2d4dd52222512db"
+
+[[files]]
+file = "mods/.connector/cardinal-components-api-6.1.1$cardinal-components-chunk-6.1.1_mapped_moj_1.21.1.jar.input"
+hash = "7e3beee9304ce3e4a9c7eb25b307fd491fd17b2f60a0ccce9dd5e622a48a52ac"
+
+[[files]]
+file = "mods/.connector/cardinal-components-api-6.1.1$cardinal-components-entity-6.1.1_mapped_moj_1.21.1.jar"
+hash = "3b2c85347a9e6cd2fa9c1b29bbfea14bab0a893cd7199433cb1d5bd2bae7a52b"
+
+[[files]]
+file = "mods/.connector/cardinal-components-api-6.1.1$cardinal-components-entity-6.1.1_mapped_moj_1.21.1.jar.input"
+hash = "8d190f5af229301c4ba850b81323b04d6f30eb566aa863411d6cd1e673f0ca16"
+
+[[files]]
+file = "mods/.connector/cardinal-components-api-6.1.1$cardinal-components-item-6.1.1_mapped_moj_1.21.1.jar"
+hash = "4dea8f39b34e4774f0051b97eaa1cc1368d4c7ef2e08ea6b1740d4df02781e2d"
+
+[[files]]
+file = "mods/.connector/cardinal-components-api-6.1.1$cardinal-components-item-6.1.1_mapped_moj_1.21.1.jar.input"
+hash = "f233f1cfc75085757e64e11bfa9c9116f9edcca7f438cfe56001e21d5ac2a5fe"
+
+[[files]]
+file = "mods/.connector/cardinal-components-api-6.1.1$cardinal-components-level-6.1.1_mapped_moj_1.21.1.jar"
+hash = "86e2341eaef9c1811c90e51e565be9ea3e097b8036021ae1282fd0135fd91550"
+
+[[files]]
+file = "mods/.connector/cardinal-components-api-6.1.1$cardinal-components-level-6.1.1_mapped_moj_1.21.1.jar.input"
+hash = "c5a000f6b9c2998c55bd7472ce12953254545d94d5755ae39521a7815dd7dbe0"
+
+[[files]]
+file = "mods/.connector/cardinal-components-api-6.1.1$cardinal-components-scoreboard-6.1.1_mapped_moj_1.21.1.jar"
+hash = "babc3c21ead4fcdcb75388ab0d413337171e7a384b926d02dcd6dc038736c379"
+
+[[files]]
+file = "mods/.connector/cardinal-components-api-6.1.1$cardinal-components-scoreboard-6.1.1_mapped_moj_1.21.1.jar.input"
+hash = "07339bc3e08a4f4c6b5f1a63e69ac6f5b3f3b085dae8d8d243ec6d89c090bfbc"
+
+[[files]]
+file = "mods/.connector/cardinal-components-api-6.1.1$cardinal-components-world-6.1.1_mapped_moj_1.21.1.jar"
+hash = "588c8a99ce0cfdd320854b4d1563486a15510f2d686a7283c287327e530282c2"
+
+[[files]]
+file = "mods/.connector/cardinal-components-api-6.1.1$cardinal-components-world-6.1.1_mapped_moj_1.21.1.jar.input"
+hash = "d1bce7ffe1979f6e7e2dc6eb87228bb43abe8b54f4f9274a5d9f2095352adb31"
+
+[[files]]
+file = "mods/.connector/cardinal-components-api-6.1.1_mapped_moj_1.21.1.jar"
+hash = "5984a5d4671b9fafa2df422c2bc750fb4b5f2c042cc75d111e488af1bd3131d4"
+
+[[files]]
+file = "mods/.connector/cardinal-components-api-6.1.1_mapped_moj_1.21.1.jar.input"
+hash = "db605dc7908d915b11e848aed3c7127ed6ea3099af980b2e47fc40576a17833d"
+
+[[files]]
+file = "mods/.connector/patch_audit.txt"
+hash = "fa26c73ea708d5ef1157b241329cddfc42b3699b409655eb3e3cfcfb99c9804e"
+
+[[files]]
+file = "mods/.connector/temp/Etherology-1.21-0.1.5$Fabric-ASM-v2.3.jar"
+hash = "116a1e5045333a7485cd6f7df868d1901d9c50f5d5bb6f2bf40337816d01892e"
+
+[[files]]
+file = "mods/.connector/temp/Etherology-1.21-0.1.5$Fabric-ASM-v2.3.jar.input"
+hash = "23aa2d81dbb9c1fdf09ad229ea704b25595e6bd20a59e7a9879e9a1af6d940e1"
+
+[[files]]
+file = "mods/.connector/temp/Etherology-1.21-0.1.5$mixinsquared-fabric-0.2.0-beta.6.jar"
+hash = "55b2c984226c614042ce30c5de127e7817403648ee88785720f2e8e61e939cda"
+
+[[files]]
+file = "mods/.connector/temp/Etherology-1.21-0.1.5$mixinsquared-fabric-0.2.0-beta.6.jar.input"
+hash = "cb4e4fdece849c5ae7bb8b56fbe7bde51148dea23a410b7c7f02e09265aa87cb"
+
+[[files]]
+file = "mods/.connector/temp/Etherology-1.21-0.1.5$owo-sentinel-0.12.10+1.21.jar"
+hash = "ad3344e1827632856181aa8871570732df9e35f6f14d90296a70cc7e93154a9d"
+
+[[files]]
+file = "mods/.connector/temp/Etherology-1.21-0.1.5$owo-sentinel-0.12.10+1.21.jar.input"
+hash = "66b79f011e2c8748bd3ffb916cdd97c2e988d4617036857b81d6f436305df518"
+
+[[files]]
+file = "mods/.connector/temp/FabricShieldLib-1.7.2-1.21.1$Fabric-ASM-v2.3.jar"
+hash = "116a1e5045333a7485cd6f7df868d1901d9c50f5d5bb6f2bf40337816d01892e"
+
+[[files]]
+file = "mods/.connector/temp/FabricShieldLib-1.7.2-1.21.1$Fabric-ASM-v2.3.jar.input"
+hash = "23aa2d81dbb9c1fdf09ad229ea704b25595e6bd20a59e7a9879e9a1af6d940e1"
+
+[[files]]
+file = "mods/.connector/temp/FabricShieldLib-1.7.2-1.21.1$midnightlib-1.5.8-fabric.jar"
+hash = "f521a3a2680ae3daf7793b0c7f04e051b73148a078489f44096c23f71cad587d"
+
+[[files]]
+file = "mods/.connector/temp/FabricShieldLib-1.7.2-1.21.1$midnightlib-1.5.8-fabric.jar.input"
+hash = "ea91eb57b0923f579b79fb1b5e6eb474817a5a376a7cca2c5e800c41f83f4d5d"
+
+[[files]]
+file = "mods/.connector/temp/cardinal-components-api-6.1.1$cardinal-components-base-6.1.1.jar"
+hash = "ed51e2844e92243675dd65d817655473ade385197f6732db11ae940e3e8ba93e"
+
+[[files]]
+file = "mods/.connector/temp/cardinal-components-api-6.1.1$cardinal-components-base-6.1.1.jar.input"
+hash = "85cfbe99cfcff7aea1d2ed5ffd9fd1a31bc68fef236ecb5c93d92d4ae13ae6a5"
+
+[[files]]
+file = "mods/.connector/temp/cardinal-components-api-6.1.1$cardinal-components-block-6.1.1.jar"
+hash = "848cdb35d14d3d6013f0f11da5961dee5ce3c6aae2c2f47466095b96dd8db08a"
+
+[[files]]
+file = "mods/.connector/temp/cardinal-components-api-6.1.1$cardinal-components-block-6.1.1.jar.input"
+hash = "6a96b7a8bee074e7400597623b6ddf23e5fff86b3a06eefb4cc695168b2f8ec9"
+
+[[files]]
+file = "mods/.connector/temp/cardinal-components-api-6.1.1$cardinal-components-chunk-6.1.1.jar"
+hash = "586fb76b487c5b7e5d0603ae13198a90da0a950b10ed4eb14d943aa2ab2d3f3e"
+
+[[files]]
+file = "mods/.connector/temp/cardinal-components-api-6.1.1$cardinal-components-chunk-6.1.1.jar.input"
+hash = "7e3beee9304ce3e4a9c7eb25b307fd491fd17b2f60a0ccce9dd5e622a48a52ac"
+
+[[files]]
+file = "mods/.connector/temp/cardinal-components-api-6.1.1$cardinal-components-entity-6.1.1.jar"
+hash = "9a21b0c65228e8607ae67da210232885ca36fd10e6ea2c004dd58e231dd3e62f"
+
+[[files]]
+file = "mods/.connector/temp/cardinal-components-api-6.1.1$cardinal-components-entity-6.1.1.jar.input"
+hash = "8d190f5af229301c4ba850b81323b04d6f30eb566aa863411d6cd1e673f0ca16"
+
+[[files]]
+file = "mods/.connector/temp/cardinal-components-api-6.1.1$cardinal-components-item-6.1.1.jar"
+hash = "57c974bb8c821e70d1d3637333fbc12790bd0f7c5a2b8042ed3a9438a6109255"
+
+[[files]]
+file = "mods/.connector/temp/cardinal-components-api-6.1.1$cardinal-components-item-6.1.1.jar.input"
+hash = "f233f1cfc75085757e64e11bfa9c9116f9edcca7f438cfe56001e21d5ac2a5fe"
+
+[[files]]
+file = "mods/.connector/temp/cardinal-components-api-6.1.1$cardinal-components-level-6.1.1.jar"
+hash = "e886650fbd8aa2d093155b9dc7d21293e10c019ff427cbeb8f63b967369c9cf0"
+
+[[files]]
+file = "mods/.connector/temp/cardinal-components-api-6.1.1$cardinal-components-level-6.1.1.jar.input"
+hash = "c5a000f6b9c2998c55bd7472ce12953254545d94d5755ae39521a7815dd7dbe0"
+
+[[files]]
+file = "mods/.connector/temp/cardinal-components-api-6.1.1$cardinal-components-scoreboard-6.1.1.jar"
+hash = "058a29e8cc2ab24fcdb31f3ccc51316cfd8a04a75734d2255598dcef91f09780"
+
+[[files]]
+file = "mods/.connector/temp/cardinal-components-api-6.1.1$cardinal-components-scoreboard-6.1.1.jar.input"
+hash = "07339bc3e08a4f4c6b5f1a63e69ac6f5b3f3b085dae8d8d243ec6d89c090bfbc"
+
+[[files]]
+file = "mods/.connector/temp/cardinal-components-api-6.1.1$cardinal-components-world-6.1.1.jar"
+hash = "f293210b021d9d88cd7b31c7c1cb31677c3db9d650dac94e8d4edc381e7769d3"
+
+[[files]]
+file = "mods/.connector/temp/cardinal-components-api-6.1.1$cardinal-components-world-6.1.1.jar.input"
+hash = "d1bce7ffe1979f6e7e2dc6eb87228bb43abe8b54f4f9274a5d9f2095352adb31"
+
+[[files]]
+file = "mods/.connector/temp/trinkets-3.10.0$cardinal-components-base-6.1.0.jar"
+hash = "5a68354d31241182bfe4713d5095fa4238233b2be792fe70809710c038c8508d"
+
+[[files]]
+file = "mods/.connector/temp/trinkets-3.10.0$cardinal-components-base-6.1.0.jar.input"
+hash = "213088d9b20a3542c9a388266302c7b04e53121d949f25ef305b6c2c4cb6f6f9"
+
+[[files]]
+file = "mods/.connector/temp/trinkets-3.10.0$cardinal-components-entity-6.1.0.jar"
+hash = "591612fdaa7a87c6628a0e8cbcb294e497cbac54408969f970d13e539917bd0c"
+
+[[files]]
+file = "mods/.connector/temp/trinkets-3.10.0$cardinal-components-entity-6.1.0.jar.input"
+hash = "c43827cd086daa9f6f8eddd3c0038c9980a901f77dbe7b975649fedfaf86b14f"
+
+[[files]]
+file = "mods/.connector/trinkets-3.10.0_mapped_moj_1.21.1.jar"
+hash = "4898f32ba4d893a417c42643207ab0ac3ee142ad449c85ef82e19d3e154d2e80"
+
+[[files]]
+file = "mods/.connector/trinkets-3.10.0_mapped_moj_1.21.1.jar.input"
+hash = "19d63f06d38680d27a1dd7a86961273a7a7e5d6426fa6956a8b82621268dc40e"
+
+[[files]]
+file = "mods/aether-1.21.1-1.5.1-neoforge.jar"
+hash = "7c315f314d1868bf767243fae5bc0ca7316edeb7b30dfe724096b2f7dd8d1169"
+
+[[files]]
+file = "mods/allay-behave-1.3.3+1.21.jar"
+hash = "cfddc98ce1cfa1af07adec6b9c8f6b395b271567eef1ee6a378f96cd3e79817f"
+
+[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "8fde22bb3622cf3705ef91079b55bc47185cbb2fc69e8b874807b93a9aea8abf"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "40463dcf954c6448c8c05df2244d872591a3fa09dd4ffb1e2c349591493c4aba"
+metafile = true
+
+[[files]]
+file = "mods/applied-mekanistics.pw.toml"
+hash = "6809916304466ff7ae4b2efdbdea3c984c06a8d42d24047a4dde9daa87dff82a"
+metafile = true
+
+[[files]]
+file = "mods/biolith.pw.toml"
+hash = "f272645537f6c2c351a36ecb763ff48dcdfe9a18b930e77261ba408d87a3179a"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "d23556a37ff83abb1f1bff30fe68991fe93a4e1d301b0c4426747ce417c4a4a6"
 metafile = true
 
 [[files]]
@@ -11,8 +299,52 @@ hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "c8e5a828790c21fe78de966efc78c2790843780c62436108fc50a109b087b247"
+metafile = true
+
+[[files]]
+file = "mods/connector-2.0.0-beta.5+1.21.1-full.jar"
+hash = "e2d7440117ec3b09686f4ca910dc3338153215eeb8214574553c5744d284b3d5"
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "179ec97bb6d278f2012c725fdfab2c5b00adb529e4f720587ce6c3409aaa572f"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "f77a2399c34ee245fca609dce1f2379a0f7021bc7e4dd42dce7916573ffbc81c"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "14737f47940556515dfdee992838fb8e19e7145f6aadd565efe04d068d19d75e"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "8bba135cc6b6a7c70216e312e319016b618ab4e825ec7937ea6107cab637226a"
+metafile = true
+
+[[files]]
+file = "mods/etherology.pw.toml"
+hash = "2b2563d9924f0f0580540887400b13b0ba741f1bf483809d522f9921d9a4355a"
+metafile = true
+
+[[files]]
+file = "mods/fabric-shield-lib.pw.toml"
+hash = "9e833b976c6cdef5fda71dc446dc2992f9f2d6528b6c3af8aa4375436da4a3aa"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "497b906a1005d420251ed82bb438790604b7ed5b17945fefadd0c71e840cb163"
+metafile = true
+
+[[files]]
+file = "mods/female-gender-neoforge.pw.toml"
+hash = "2e2c305b077eb8c92034838afa52ec7f5eb3163f3883258ca0685de7af65e9e6"
 metafile = true
 
 [[files]]
@@ -21,8 +353,27 @@ hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api-0.107.0+2.0.22+1.21.1.jar"
+hash = "ca6f43c7e6fbf8ccab623fb7b28b0ab2287847e13edac311568884e213fcd14d"
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "91bd23dd592b8587d094b5953eba29ec6529c1828bd3c85cf0ef6786f1be9e3b"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "159ff6f2ccc1c41ef2f615c804ba8b04aa27c8273ef1845a66bc7a40fdad88e5"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "e1646cf433abe533dce054c680d225391d3926296657ac8965cba50fbd3b7218"
+metafile = true
+
+[[files]]
+file = "mods/immersive-portals-for-forge.pw.toml"
+hash = "5d5ffcf3195dfd82167424c1b30a0c60460a434a406ba906fe47005a8572a8ce"
 metafile = true
 
 [[files]]
@@ -31,8 +382,13 @@ hash = "e2565b5d04fd1157bc97dcac1da9dbd30f2d322be24e2f6ca1f05475ba3aeb18"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "23138d6848d524b31ccbd6f32d7295e2e59ef2d851ad0a95a5ddc29888948eec"
+file = "mods/macaws-windows.pw.toml"
+hash = "e776d14fca80de704085732b1ee05702e9062ad2fa16b5b2a6f3e75096e901e9"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "5145c7f731914e9c9e53b7c6833af134bbd6d46e59c7cdcb8a3cab2bb2547d85"
 metafile = true
 
 [[files]]
@@ -46,6 +402,21 @@ hash = "c39f473bc613a79aaf8717ced14f9e081451118cd53521ac5d6e6cdd469a3f59"
 metafile = true
 
 [[files]]
+file = "mods/ore-harvester.pw.toml"
+hash = "ba2a027fa491bf699902c246017aa936e28838b6438e9e6e3b8b464d48b82a27"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "4e907f6a193bd141cf0a0012fc3655b1e1b390b72f938cce01cec1327a13a0e5"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "81ae2d56bce436d8e8579a8da32e4c0aa60063f98903bd275f08c8d26d777915"
+metafile = true
+
+[[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "5c77c603cb9ff14bd89d2001df5f90614ceab3f9d02e2bb0ad14e92057698bce"
 metafile = true
@@ -56,13 +427,38 @@ hash = "0d162e18a8010861a674d6cd76780a8298d0a2d11514c8cfb0fd78bdd65a7e68"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "0993f7e7eec5160e0eeb9253a9f15f228031ec4036aaa39e558922a33a74a161"
+metafile = true
+
+[[files]]
+file = "mods/sinytra-connector.pw.toml"
+hash = "a515d70f1fc773f363dc56670307ebd06e50b0028e6ea1b60649c0bc76b2afcb"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
-hash = "cd6d5b32b5998752eedc0f86526567099435f0eb6c891097969583966fb5f303"
+hash = "910e442e6179e4fb2e4a4112b0f66641045fff889027e73fca249b040a3f261f"
 metafile = true
 
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "943a6e7eb3edc86e87dff02af039208b9af6308ef2185ef905655e6a0538bdd4"
+metafile = true
+
+[[files]]
+file = "mods/travelers-titles-neoforge.pw.toml"
+hash = "45a38f15e6810ff75e3756bc5673fe5cc336099070049699eafaee04f2fae6af"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "7b5e8074a47ad6a9e453a29853bb1527906ae0ced0d714fcd386c75ef1f0f00a"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "c30f3d906645c33269354bc6585139854a8fac66f9dace3c044e185b7f9bb291"
 metafile = true
 
 [[files]]
@@ -76,8 +472,18 @@ hash = "b6527599723cd47781e0e2eb029ba1858ecd000e5d6a972c5497838b6fb967bb"
 metafile = true
 
 [[files]]
+file = "mods/yungs-better-end-island-neoforge.pw.toml"
+hash = "cc41580a5c56304ddb348f65c23baa0bbda2b89a56535a81d045ae49d372eec3"
+metafile = true
+
+[[files]]
 file = "mods/yungs-better-mineshafts-neoforge.pw.toml"
 hash = "c2053af07ae41f932040eaa078a7d22438cbb0bf16ebcf0926740dd8777f9498"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses-neoforge.pw.toml"
+hash = "f31730c0959a26773d0f05b9603b30bf43d6872bb7e46f45dff81b90d99547e6"
 metafile = true
 
 [[files]]
